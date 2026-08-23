@@ -37,6 +37,7 @@ This project focuses on analyzing HR data to identify patterns in employee attri
 - `HR Dataset.xlsx` → Dataset
 - `Dashboard Preview.png` → Dashboard screenshot
 
+---
 
 ## 📊 Dashboard Preview
 
