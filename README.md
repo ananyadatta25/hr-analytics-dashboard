@@ -42,10 +42,10 @@ This project focuses on analyzing HR data to identify patterns in employee attri
 ## 📊 Dashboard Preview
 
 ### Page 1
-![Dashboard](./HR Analytics Page 1.png)
+/HR Analytics Page 1.png
 
 ### Page 2
-![Dashboard](./HR Analytics Page 2.png)
+/HR Analytics Page 2.png
 
 ---
 
