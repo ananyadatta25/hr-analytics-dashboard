@@ -39,6 +39,10 @@ This project focuses on analyzing HR data to identify patterns in employee attri
 
 ---
 
+
+
+---
+
 ## 📈 Key Insights
 - Certain departments show higher attrition rates
 - Work-life balance impacts attrition significantly
